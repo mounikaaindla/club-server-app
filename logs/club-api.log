@@ -1,0 +1,11 @@
+2020-12-23 11:23:45,484-club-api-INFO-Start ClubApi: listen
+2020-12-23 11:23:45,485-club-api-DEBUG-Intializing JSON object
+2020-12-23 11:23:45,485-club-api-DEBUG-Reading the data file
+2020-12-23 11:23:45,906-club-api-INFO-Start ClubApi: listen
+2020-12-23 11:23:45,906-club-api-DEBUG-Intializing JSON object
+2020-12-23 11:23:45,907-club-api-DEBUG-Reading the data file
+2020-12-23 11:45:29,169-club-api-DEBUG-{'member_id': 'null', 'member_name': 'Steve', 'member_age': 37}
+2020-12-23 11:46:32,799-club-api-DEBUG-{'member_id': 'd4c4e555-7ceb-4ce5-96cd-c5bb3bb3e8bb', 'member_name': 'Steve Jobs', 'member_age': 37}
+2020-12-23 12:03:15,330-club-api-DEBUG-{'club_id': '16fd2706-8baf-433b-82eb-8c7fada847da', 'club_name': 'Ivy', 'club_address': 'Lonpipe road 1', 'club_members': [{'member_name': 'Alex', 'member_age': '33', 'member_id': 'ef4ad1e1-6070-419b-96a6-3e507c9a3375'}, {'member_id': 'd4c4e555-7ceb-4ce5-96cd-c5bb3bb3e8bb', 'member_name': 'Steve Jobs', 'member_age': 37}], 'expand': True}
+2020-12-23 12:03:39,797-club-api-DEBUG-{'member_id': 'd4c4e555-7ceb-4ce5-96cd-c5bb3bb3e8bb', 'member_name': 'Steve', 'member_age': '40'}
+2020-12-23 12:04:04,962-club-api-DEBUG-{'member_id': 'd4c4e555-7ceb-4ce5-96cd-c5bb3bb3e8bb', 'member_name': 'Steve', 'member_age': '42'}

@@ -1,0 +1,65 @@
+{
+  "clubs": [
+    {
+      "club_id": "16fd2706-8baf-433b-82eb-8c7fada847da",
+      "club_name": "Ivy",
+      "club_address": "Lonpipe road",
+      "club_members": [
+        {
+          "member_name": "Peter _1",
+          "member_age": "32",
+          "member_id": "ef4ad1e1-6070-419b-96a6-3e507c9a3376"
+        },
+        {
+          "member_name": "Some",
+          "member_age": "33",
+          "member_id": "ef4ad1e1-6070-419b-96a6-3e507c9a3375"
+        }
+      ]
+    },
+    {
+      "club_id": "f0b6bf3b-47d0-49e4-a3fe-aa483f06b45b",
+      "club_name": "Daisy",
+      "club_address": "Bradford road",
+      "club_members": [
+        {
+          "member_name": "Mike",
+          "member_age": 35,
+          "member_id": "7+37511ab-c9d1-4abb-bdfc-601eda67fa02"
+        },
+        {
+          "member_name": "Lucas",
+          "member_age": "42",
+          "member_id": "f4721a34-a646-4dc6-9899-28bcc39938b4"
+        },
+        {
+          "member_name": "Fann",
+          "member_age": 39,
+          "member_id": "7ea32860-2d31-49fc-b577-1e144c440aff"
+        }
+      ]
+    },
+    {
+      "club_id": "1d946e42-20ee-41f5-a90d-357d78de9de7",
+      "club_members": [
+        {
+          "member_id": "b9085398-96bc-4e2d-b20f-ea7f66835b18",
+          "member_name": "Lucas",
+          "member_age": "20"
+        },
+        {
+          "member_id": "578793a1-be49-467c-8f84-1ec459394e85",
+          "member_name": "Frann",
+          "member_age": "42"
+        },
+        {
+          "member_id": "1c2cc733-b7e2-41be-9e56-f56298bf0b3a",
+          "member_name": "Lucas Old",
+          "member_age": "60"
+        }
+      ],
+      "club_name": "Deccan Club 1",
+      "club_address": "secunderabad PO 1"
+    }
+  ]
+}
